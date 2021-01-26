@@ -33,3 +33,4 @@ namespace Triangulo01_04._4
         }
     }
 }
+//https://youtu.be/UKVNSqTTJyE
