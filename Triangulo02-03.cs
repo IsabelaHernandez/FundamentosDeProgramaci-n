@@ -33,3 +33,4 @@ namespace Triangulos_02_03
         }
     }
 }
+https://youtu.be/_8VOBVsfWs4
