@@ -37,3 +37,5 @@ namespace Triangulos_01__04._1
         }
     }
 }
+
+//https://youtu.be/UKVNSqTTJyE
