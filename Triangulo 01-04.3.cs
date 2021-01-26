@@ -32,3 +32,4 @@ namespace Trienagulo01_04._3
         }
     }
 }
+//https://youtu.be/UKVNSqTTJyE
